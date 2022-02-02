@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My ApplicationTest</string>
+    <string name="hint_total_square">Загальна площа</string>
+    <string name="hint_tile_height">Висота плитки</string>
+    <string name="hint_tile_width">Ширина плитки</string>
+    <string name="hint_joint_width">Ширина шва</string>
+    <string name="hint_joint_height">Висота шва</string>
+    <string name="hint_joint_amount">Кількість затирки</string>
+
+    <string-array name="jointsArr">
+    <item>M44</item>
+    <item>Diamond Max</item>
+    <item>TF 150</item>
+    <item>EKF 500</item>
+    </string-array>
+</resources>
